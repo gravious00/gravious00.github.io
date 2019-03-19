@@ -16,13 +16,13 @@
 #outside-title {
   color: black;
   font-family: Courier;
-  font-size: 12pt;
+  font-size: 12vw;
   text-align: center;
 }
 
 #outside-pic {
-  width: 150px;
-  height: 150px;
+  width: 400px;
+  height: 400px;
 }
 
 #outside-help {
@@ -45,7 +45,7 @@
 #inside-title {
   color: red;
   font-family: Courier;
-  font-size: 5vw;
+  font-size: 10vw;
   text-align: center;
 }
 
@@ -57,7 +57,7 @@
 #message {
   color: black;
   font-family: Courier;
-  font-size: 2vw;
+  font-size: 4vw;
   text-align: center;
 }
 
